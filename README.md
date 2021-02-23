@@ -1,10 +1,10 @@
 Olá
 
-Meu Nome é Igor, Sou desenvovedor FrontEnd com mais de 10 anos de experiencia\n
-contato: linkedin: igor-marcondes-83764b25\n
-Trabalho atual: Samurai Experts\n
-Estutando: React e Next.js\n
-Posso ajudar e contribuir com: javascript, css, html, SASS e frontend em geral\n
+Meu Nome é Igor, Sou desenvovedor FrontEnd com mais de 10 anos de experiencia
+contato: linkedin: igor-marcondes-83764b25
+Trabalho atual: Samurai Experts
+Estutando: React e Next.js
+Posso ajudar e contribuir com: javascript, css, html, SASS e frontend em geral
 email para contato igormarcondes@gmail.com
 
 
