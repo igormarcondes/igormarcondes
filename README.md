@@ -1,25 +1,15 @@
-Olá
 
-Meu Nome é Igor, Sou desenvovedor FrontEnd com mais de 10 anos de experiencia<br /><br />
-contato: linkedin: igor-marcondes-83764b25<br />
-Trabalho atual: Samurai Experts<br />
-Estutando: React e Next.js<br />
-Posso ajudar e contribuir com: javascript, css, html, SASS e frontend em geral<br />
-email para contato igormarcondes@gmail.com
+# Igor Marcondes
 
+## Olá pessoal 👋
 
+Sou apaixonado por desenvolvimento FrontEnd com mais de 10 anos de experiencia :computer:<br />
+Estou trabalhando na **Samurai Experts**:man_office_worker:
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando javascript,jquery, html, css
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, SASS, GULP, Grunt, javascript
+ <br/> :computer: &nbsp; Minha stack Estudando: ReactJS, Next.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, futebol e games CS:GO, Fornite, Clash Royale
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-IgorMarcondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-marcondes-83764b25/)](https://www.linkedin.com/in/igor-marcondes-83764b25/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-igormarcondes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igormarcondes@gmail.com)](mailto:igormarcondes@gmail.com)
 
-<!--
-**igormarcondes/igormarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
